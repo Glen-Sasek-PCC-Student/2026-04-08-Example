@@ -43,6 +43,7 @@ using namespace std;
 // https://en.cppreference.com/w/cpp/language/main_function.html
 int main(int argc, char* argv[]) {
   cout << "Hello, World!" << endl;
+  cout << "Hello, again World!" << endl;
   return 0;
 }
 
